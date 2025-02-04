@@ -37,5 +37,5 @@ python bidding-monitor.py
 - Ensure that the DingTalk webhook permissions are properly configured to allow incoming messages.
 
 ## License
-This project is licensed under the MIT License.
+本工具为XX厂时机案例脱敏版本
 
